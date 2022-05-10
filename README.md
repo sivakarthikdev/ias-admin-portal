@@ -29,6 +29,12 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `Static Server`
+
+Install serve build:- `npm install -g serve`
+Default run 3000:- `serve -s build`
+Alternate run:- `serve -s build -l 4000`  
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
