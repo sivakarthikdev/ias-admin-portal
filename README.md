@@ -32,7 +32,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `Static Server`
 
 Install serve build:- `npm install -g serve`
+
 Default run 3000:- `serve -s build`
+
 Alternate run:- `serve -s build -l 4000`  
 
 ### `npm run eject`
